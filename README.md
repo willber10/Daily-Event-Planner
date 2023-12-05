@@ -17,6 +17,8 @@ The starter code was provided to me by University of Oregon bootcamp. I also rec
 
 ## Link
 
+https://willber10.github.io/Daily-Event-Planner/
+
 ## Screenshot
 
 <img src="./assets/module-5-screenshot.png">
